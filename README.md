@@ -6,8 +6,8 @@
 |--|--|--|--|
 | | | | |
 <a href="https://github.com/frankyhub/Workshops/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Workshops)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Workshops)|<a href="https://github.com/frankyhub/Workshops/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Workshops)|<a href="https://github.com/frankyhub/Workshops/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Workshops)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2005-blue)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Workshops)| <a href="https://github.com/frankyhub/Workshops/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Workshops/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
-src="https://img.shields.io/badge/License-MIT-green.svg?style=flat"></a>||
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Workshops)| <a href="https://github.com/frankyhub/Workshops/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Workshops/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
 </div>
 
 
